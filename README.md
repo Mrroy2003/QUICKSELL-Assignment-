@@ -23,7 +23,7 @@ This project is a **React-based Kanban-board** application developed as part of 
 1. Clone the repository:
 
   ```cpp
-   git clone https://github.com/your-repo/Quicksell-Frontend-assignment.git
+   git clone  https://github.com/Mrroy2003/QUICKSELL-Assignment-.git
    cd Quicksell-Frontend-assignment
    ```
 pictures:
