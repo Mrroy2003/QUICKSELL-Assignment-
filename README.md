@@ -41,4 +41,3 @@ Card:
 ![Pic 4](https://github.com/user-attachments/assets/27223165-bc60-4b3d-9226-cc8d24709a7a)
 
 
-![{1A6BA42E-34FB-4CA4-A9CD-FF071DF08658}](https://github.com/user-attachments/assets/bd0e82c2-97af-4193-962c-a69c1368100d)
